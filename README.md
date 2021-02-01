@@ -2,7 +2,7 @@
 
 ### Overview
 
-The Cypress CYBT-483062-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-483062-02 module.  The CYBT-483062-02 is a dual-mode Bluetooth BR/EDR and Low Energy (BLE) wireless module solution.  The CYBT-483062-02 includes onboard crystal oscillators, passive components, PA/LNA, and the Cypress CYW20721B2 silicon device.
+The Cypress CYBT-483062-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-483062-02 module.  The CYBT-483062-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-483062-02 includes onboard crystal oscillators, passive components, PA/LNA, and the Cypress CYW20721B2 silicon device.
 
 ### Kit Features
 
