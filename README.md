@@ -20,4 +20,4 @@ The Infineon CYBT-483062-EVAL board enables you to evaluate and develop Bluetoot
 
 Max UART baud rate is 1M.
 
-For more information, see the [CYW20721B2 Product Guide](https://community.cypress.com/docs/DOC-17429)
+For more information, see the [CYW20721B2 Product Guide](https://www.infineon.com/dgdl/Infineon-CYW20721_Enhanced_Low_Power_BR_EDR_BLE_Bluetooth_5.0_SOC_for_Audio-AdditionalTechnicalInformation-v06_00-EN.pdf?fileId=8ac78c8c7e7124d1017ebeab5c8a566e)
